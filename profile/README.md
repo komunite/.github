@@ -33,9 +33,3 @@ Hiçbir adımda yalnız değilsin. Tek başına çalışırken en çok bu eksik 
 | Alan bilgini çalışan bir çıktıya çevirme özerkliğin var | İnsan kontrolü, veri güvenliği ve kalite değerlendirmesini gereksiz görüyorsan |
 | Çıktını değerlendirecek akran ve uzmanlara ihtiyaç duyuyorsun | Üyeliği bir indirim ve avantaj paketi olarak görüyorsan |
 | Bir yöntemi tekrar edip yerleştirmek istiyorsun | |
-
----
-
-> 2021'den beri buradaysan yerin duruyor. Yeni geliyorsan aynı kapıdan giriyorsun.
->
-> — Fatih Güner, kurucu
